@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-**Greater Island** is a parent company of several e-commerce brands.
+**Greater Island LLC** is a parent company of several e-commerce brands.
 
 * Kitty Corners
 * TwistGrip
