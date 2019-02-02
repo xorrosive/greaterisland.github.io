@@ -3,8 +3,10 @@ layout: page
 title: About
 permalink: /about/
 ---
-*Polar Bear* is a lightweight and customisable Jekyll Theme.
+*Greater Island* is a parent company of several e-commerce brands.
 
-* Author: Camille Diez
-* Github: http://github.com/diezcami
-* Portfolio: http://diezcami.github.io
+* Kitty Corners: https://kittycorners.co
+* TwistGrip: https://twistgrip.co
+
+Thanks for checking us out!
+If you'd like to contact us, shoot us an email at *hello@greaterisland.com*.
