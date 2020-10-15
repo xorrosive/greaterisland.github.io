@@ -11,7 +11,7 @@ permalink: /about/
 Thanks for checking us out!
 
 Contact Info
-**hello@greaterisland.com**.
+* **hello@greaterisland.com**
 * 18 Marita Place
 * Vaughan, Ontario L4K 3J7
 * Canada
